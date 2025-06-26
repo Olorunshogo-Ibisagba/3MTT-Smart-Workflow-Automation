@@ -1,7 +1,7 @@
 # 3MTT-Smart-Workflow-Automation
 # Smart Workflow Automation System for SME Teams
 
-**Created by:** Olorunshogo Joseph Ibisagba  
+**Created by:** Olorunshogo Ibisagba  
 **Role:** Data Analysis And Visualization 
 **3MTT Cohort 3 Showcase Submission**
 
