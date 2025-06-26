@@ -35,7 +35,7 @@ A centralized Google Sheets-based system that:
 https://docs.google.com/spreadsheets/d/1FlQ1Z54vZP-eclLX1fXbmtRc9VMrFcRcGD1jgWqvNkk/edit?usp=sharing
 
 ## 📹 Demo Video
-(Upload your 3-minute video to YouTube or Google Drive and paste the link here.)
+https://drive.google.com/file/d/1xNesA69sVo6DeQd3ROFARnHU4c4k4CFl/view?usp=sharing
 
 ## 📌 Tags
 #3MTTLearningCommunity #My3MTT 
